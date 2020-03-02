@@ -1,0 +1,6 @@
+framework module Pods_RandomUser_CocoaPodLab {
+  umbrella header "Pods-RandomUser-CocoaPodLab-umbrella.h"
+
+  export *
+  module * { export * }
+}
